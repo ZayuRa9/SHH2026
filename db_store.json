@@ -1,0 +1,288 @@
+{
+  "weeks": [
+    {
+      "id": 1,
+      "weekNumber": 1,
+      "theme": "Bác Hồ kính yêu",
+      "date": "07/06/2026",
+      "time": "08:00 - 10:00",
+      "location": "Nhà văn hóa Cụm 2 - Văn phòng Khu phố 12 (15 Nguyễn Thị Thập, Tân Hưng)",
+      "mapsLink": "https://www.google.com/maps/dir/?api=1&destination=Văn+phòng+Khu+phố+12+Đường+Nguyễn+Thị+Thập+Tân+Hưng+Quận+7",
+      "description": "Sinh hoạt khai mạc hè, tìm hiểu về cuộc đời và sự nghiệp của Chủ tịch Hồ Chí Minh vĩ đại, học tập và làm theo 5 điều Bác Hồ dạy thông qua các câu đố vui, hát múa tập thể.",
+      "objectives": [
+        "Bồi dưỡng lòng yêu nước, kính yêu Bác Hồ sâu sắc.",
+        "Làm quen giữa thiếu nhi các khu phố từ KP10 đến KP18.",
+        "Tuyên truyền nội quy sinh hoạt hè an toàn, bổ ích."
+      ],
+      "games": [
+        "Ai nhanh hơn: Đoán châm ngôn lịch sử",
+        "Kéo co đồng đội vòng tròn",
+        "Tiếng hát búp măng non"
+      ],
+      "activities": [
+        "Xem phim tài liệu ngắn chân thực về Bác Hồ với thiếu nhi",
+        "Vẽ tranh chủ đề 'Hào khí non sông/Ước mơ tuổi thơ'",
+        "Đăng ký tham gia các câu lạc bộ hè năng khiếu"
+      ],
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "images": [
+        "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=800&q=80"
+      ],
+      "coverImage": "https://images.unsplash.com/photo-1544717202-bde6a155502c?auto=format&fit=crop&w=1200&q=80",
+      "lessonUrl": "https://doanthanhnien.vn/tu-lieu/hoc-tap-va-lam-theo-loi-bac-1",
+      "solidarityQuarter": "Khu phố 12"
+    },
+    {
+      "id": 2,
+      "weekNumber": 2,
+      "theme": "Em yêu Thành phố Hồ Chí Minh",
+      "date": "14/06/2026",
+      "time": "08:00 - 10:00",
+      "location": "Trường Tiểu học Lê Văn Tám (Cơ sở KP14 - Phường Tân Hưng)",
+      "mapsLink": "https://www.google.com/maps/dir/?api=1&destination=Trường+Tiểu+học+Lê+Vàn+Tám+Tân+Hưng+Quận+7",
+      "description": "Khám phá các danh lam thắng cảnh lịch sử, công trình hiện đại của mang tên Bác cổ kính mà anh hùng. Học hỏi tinh thần hào sảng, văn minh, nghĩa tình của người dân thành phố.",
+      "objectives": [
+        "Tự hào về lịch sử hào hùng của Sài Gòn - Gia Định xưa, TP. HCM nay.",
+        "Tìm hiểu vị trí địa lý của các di tích trong địa bàn Quận 7 và Phường.",
+        "Nâng cao ý thức ứng xử văn minh nơi công cộng."
+      ],
+      "games": [
+        "Hành trình di sản siêu tốc",
+        "Rung chuông vàng khảo cứu sử xanh",
+        "Vượt chướng ngại vật đồng lòng"
+      ],
+      "activities": [
+        "Thi hùng biện nhóm 'Nếu em là Đại sứ Du lịch Nhí'",
+        "Bản đồ check-in di sản giấy tự làm lớn nhất Cụm 2",
+        "Tặng bản tin phòng chống tai nạn thương tích mùa hè"
+      ],
+      "videoUrl": "https://www.youtube.com/embed/YpXQpI2eH_g",
+      "images": [
+        "https://images.unsplash.com/photo-1508962914676-134849a727f0?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1471970270106-a85de9b3a322?auto=format&fit=crop&w=800&q=80"
+      ],
+      "coverImage": "https://images.unsplash.com/photo-1508962914676-134849a727f0?auto=format&fit=crop&w=1200&q=80",
+      "lessonUrl": "https://doanthanhnien.vn/tu-lieu/lich-su-thanh-pho-ho-chi-minh",
+      "solidarityQuarter": "Khu phố 14"
+    },
+    {
+      "id": 3,
+      "weekNumber": 3,
+      "theme": "Em yêu Khoa học & Công nghệ",
+      "date": "21/06/2026",
+      "time": "08:00 - 11:00",
+      "location": "Trung tâm Học tập Cộng đồng Phường (Khu phố 16 - Tân Hưng)",
+      "mapsLink": "https://www.google.com/maps/dir/?api=1&destination=Ủy+ban+Nhân+dân+Phường+Tân+Hưng+Quận+7",
+      "description": "Chào đón kỷ nguyên số đầy sáng tạo! Các em thiếu nhi cùng trải nghiệm phóng tên lửa nước, tiếp xúc mô hình robot tự hành, nghe bạn AI kể chuyện lịch sử và làm thí nghiệm xà phòng đại dương.",
+      "objectives": [
+        "Khơi dậy đam mê học hỏi STEM, tư duy logic.",
+        "Giới thiệu cơ bản cách làm bạn với Trí tuệ nhân tạo (AI) một cách an toàn.",
+        "Kích thích sự tò mò khám phá các định luật vật lý, hóa học thân thuộc."
+      ],
+      "games": [
+        "Bắn tên lửa nước trúng đích",
+        "Robot nhí đua kỹ năng vượt dốc",
+        "Giải mã mật mật mã nhị phân"
+      ],
+      "activities": [
+        "Trực tiếp vận hành mô hình máy bay thủy động học",
+        "Gặp gỡ bạn trợ lý ảo trợ giúp làm bài tập hè thông minh",
+        "Làm nến thơm và xốp bong bóng hóa học"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80"
+      ],
+      "coverImage": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+      "lessonUrl": "https://doanthanhnien.vn/tu-lieu/khoa-hoc-cong-nghe-he-2026",
+      "solidarityQuarter": "Khu phố 16"
+    },
+    {
+      "id": 4,
+      "weekNumber": 4,
+      "theme": "Em yêu Môi trường & Đại dương",
+      "date": "28/06/2026",
+      "time": "08:00 - 10:00",
+      "location": "Khuôn viên Công viên Kênh Tẻ (KP11, Phường Tân Hưng)",
+      "mapsLink": "https://www.google.com/maps/dir/?api=1&destination=Công+viên+Kênh+Tẻ+Phường+Tân+Hưng+Quận+7",
+      "description": "Nhận thức sâu sắc về khủng hoảng rác thải và hành động thực tế bảo vệ màu xanh quê hương. Thu gom pin cũ đổi sen đá, phân loại rác thải tái chế tại nguồn siêu vui nhộn.",
+      "objectives": [
+        "Xây dựng thói quen tiết kiệm tài nguyên, từ chối túi nilon dùng một lần.",
+        "Tìm hiểu hệ sinh thái ven sông Kênh Tẻ và tầm quan trọng của dòng nước sạch.",
+        "Thực hành phân loại rác: Hữu cơ, Vô cơ, Tái chế chuẩn xác."
+      ],
+      "games": [
+        "Chiến binh phân loại rác tốc độ",
+        "Tiếp sức trồng mầm xanh",
+        "Thử thách 'Không rác thải nhựa'"
+      ],
+      "activities": [
+        "Hội chợ đổi rác lấy quà: Đổi pin cũ, giấy báo lấy cây xanh sen đá cực xinh",
+        "Thi thiết kế thời trang từ phế liệu tái chế",
+        "Cam kết bảo vệ môi trường, tô điểm cây mơ ước đại dương"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?auto=format&fit=crop&w=800&q=80"
+      ],
+      "coverImage": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?auto=format&fit=crop&w=1200&q=80",
+      "lessonUrl": "https://doanthanhnien.vn/tu-lieu/bao-ve-moi-truong-va-bien-dao",
+      "solidarityQuarter": "Khu phố 11"
+    }
+  ],
+  "gifts": [
+    {
+      "id": "g1",
+      "name": "Bộ Sticker Đội Viên Ngộ Nghĩnh",
+      "category": "weekly",
+      "reqAttendances": 1,
+      "icon": "🎨",
+      "description": "Phần quà siêu chất lượng phát trực tiếp sau buổi sinh hoạt tuần đầu tiên dành cho tất cả các em tham gia tích cực.",
+      "countLeft": 120,
+      "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "g2",
+      "name": "Bút Chì Gỗ Đoàn Kết + Tẩy Robot AI",
+      "category": "points",
+      "reqAttendances": 3,
+      "icon": "✏️",
+      "description": "Được đổi khi các em tích lũy từ 3 buổi tham gia sinh hoạt hè trở lên đóng góp đầy rẫy sáng kiến xuất sắc.",
+      "countLeft": 85,
+      "image": "https://images.unsplash.com/photo-1519751138087-5bf79df62d5b?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "g3",
+      "name": "Bình Nước Cao Cấp Đoàn Thanh Niên Tân Hưng",
+      "category": "points",
+      "reqAttendances": 6,
+      "icon": "🥤",
+      "description": "Bình đựng nước thể thao tráng nhựa Tritan thân thiện, giữ lạnh tốt, in logo biểu tượng khát vọng thanh niên trẻ.",
+      "countLeft": 40,
+      "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "g4",
+      "name": "Balo Học Sinh Chống Gù 2026",
+      "category": "points",
+      "reqAttendances": 10,
+      "icon": "🎒",
+      "description": "Dành cho thiếu nhi đạt mốc tích lũy chuyên cần 10 buổi tham gia trở lên. Balo siêu nhẹ, thoáng khí, chứa được nhiều tập vở chuẩn bị năm học mới.",
+      "countLeft": 15,
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "g5",
+      "name": "Hộp Quà Đặc Biệt - Combo Sách Khoa Học & Robot Khám Phá Giáo Dục",
+      "category": "special",
+      "reqAttendances": 15,
+      "icon": "🎁",
+      "description": "Đại diện Ủy ban Nhân dân và Đoàn Phường trao tặng vào Lễ tổng kết hè danh giá dành cho những Chiến binh hè xuất sắc đi trọn vẹn chặng đường.",
+      "countLeft": 5,
+      "image": "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?auto=format&fit=crop&w=800&q=80"
+    }
+  ],
+  "announcements": [
+    {
+      "id": "a1",
+      "text": "🔔 Tuần này chúng ta sẽ cùng chu du khám phá đề tài 'Em yêu Thành phố Hồ Chí Minh' cực kỳ hấp dẫn lúc 08h00 sáng Chủ Nhật ngày 14/06/2026 nhé!",
+      "isActive": true
+    },
+    {
+      "id": "a2",
+      "text": "🚀 CLB Sáng tạo Khoa học Em yêu STEM sẽ bắt đầu buổi luyện tập đầu tiên về làm robot mini thông minh vào Thứ Sáu 19/06 lúc 09h00.",
+      "isActive": true
+    },
+    {
+      "id": "a3",
+      "text": "🎨 Workshop 'Vẽ tranh sắc màu ước mơ' dành riêng phát hiện tiềm năng nghệ thuật thi hành vào tối Thứ Bảy 20/06 lúc 18h30 cực cool.",
+      "isActive": true
+    },
+    {
+      "id": "a4",
+      "text": "🌿 Đoàn Phường Tân Hưng phát động chiến dịch thu gom PIN CŨ đổi SEN ĐÁ tại các điểm sinh hoạt hè thuộc Cụm 2 từ tuần này nhé!",
+      "isActive": true
+    }
+  ],
+  "attendance": [],
+  "customLogo": "",
+  "storedAssets": [
+    {
+      "id": "asset-1",
+      "name": "Bác Hồ kính yêu với thiếu nhi",
+      "url": "https://images.unsplash.com/photo-1544717202-bde6a155502c?auto=format&fit=crop&w=1200&q=80",
+      "type": "image",
+      "timestamp": "2026-06-08T12:00:00Z",
+      "album": "Giáo dục truyền thống"
+    },
+    {
+      "id": "asset-2",
+      "name": "Khai mạc hè vui nhộn - Sân chơi thiếu nhi",
+      "url": "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=800&q=80",
+      "type": "image",
+      "timestamp": "2026-06-08T12:05:00Z",
+      "album": "Khai mạc hè"
+    },
+    {
+      "id": "asset-3",
+      "name": "Giới thiệu lịch sử Thành phố vĩ đại",
+      "url": "https://images.unsplash.com/photo-1508962914676-134849a727f0?auto=format&fit=crop&w=1200&q=80",
+      "type": "image",
+      "timestamp": "2026-06-08T12:10:00Z",
+      "album": "Giáo dục truyền thống"
+    },
+    {
+      "id": "asset-4",
+      "name": "Thi khoa học công nghệ trẻ STEM",
+      "url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+      "type": "image",
+      "timestamp": "2026-06-08T12:15:00Z",
+      "album": "Trò chơi & Thể thao"
+    },
+    {
+      "id": "asset-5",
+      "name": "Học tập lập trình robot & AI nhí",
+      "url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=800&q=80",
+      "type": "image",
+      "timestamp": "2026-06-08T12:20:00Z",
+      "album": "Học tập hè"
+    },
+    {
+      "id": "asset-6",
+      "name": "Bảo vệ môi trường gom pin đổi sen đá",
+      "url": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?auto=format&fit=crop&w=1200&q=80",
+      "type": "image",
+      "timestamp": "2026-06-08T12:25:00Z",
+      "album": "Hoạt động Xã hội"
+    },
+    {
+      "id": "asset-7",
+      "name": "Video Clip tổng kết Khai mạc hè Cụm 2",
+      "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "type": "video",
+      "timestamp": "2026-06-08T12:30:00Z",
+      "album": "Khai mạc hè"
+    }
+  ],
+  "volunteers": [],
+  "photoLikes": {},
+  "auditLogs": [
+    {
+      "id": "log-1",
+      "user": "Hệ thống tự động",
+      "role": "Super Admin",
+      "action": "Khởi tạo hệ thống",
+      "details": "Đã thiết lập phần mềm chính thức He 2026 thành công. Sẵn sàng vận hành đồng bộ dữ liệu thời gian thực giữa các thiết bị phụ huynh.",
+      "ipAddress": "127.0.0.1",
+      "device": "Docker Container (Cloud Run)",
+      "browser": "NodeJS / V8 Engine",
+      "timestamp": "2026-06-22T10:00:00.000Z",
+      "isError": false
+    }
+  ]
+}

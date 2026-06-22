@@ -1,0 +1,54 @@
+{
+  "name": "Sinh hoạt hè 2026 - Cụm 2 Phường Tân Hưng",
+  "short_name": "HÈ CỤM 2",
+  "description": "Cổng thông tin Sinh hoạt hè Cụm 2 Phường Tân Hưng - Theo dõi hoạt động, tích lũy điểm chuyên cần, đổi quà đỉnh cao PWA.",
+  "id": "/",
+  "start_url": "/?source=pwa",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0056b3",
+  "scope": "/",
+  "orientation": "portrait-primary",
+  "categories": ["education", "parenting"],
+  "icons": [
+    {
+      "src": "https://img.icons8.com/color/192/000000/google-groups.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://img.icons8.com/color/192/000000/google-groups.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://img.icons8.com/color/512/000000/google-groups.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://img.icons8.com/color/512/000000/google-groups.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Hòm Quà Hè",
+      "url": "/#gifts",
+      "description": "Xem kho phần thưởng tích lũy điểm",
+      "icons": [{ "src": "https://img.icons8.com/color/48/000000/gift.png", "sizes": "48x48" }]
+    },
+    {
+      "name": "Điểm Danh Hè",
+      "url": "/#attendance",
+      "description": "Ghi danh điểm danh chuyên cần",
+      "icons": [{ "src": "https://img.icons8.com/color/48/000000/checkmark.png", "sizes": "48x48" }]
+    }
+  ],
+  "prefer_related_applications": false
+}

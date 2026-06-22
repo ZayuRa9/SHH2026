@@ -1,0 +1,6 @@
+{
+  "name": "Sinh hoạt hè 2026",
+  "description": "Cổng thông tin sinh hoạt hè 2026 Cụm hoạt động số 2 Đoàn Thanh niên Phường Tân Hưng",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
